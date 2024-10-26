@@ -9,6 +9,11 @@ Este repositorio incluye:
 - Secciones adicionales: `inicio`, `cursos`, `especializaciones` y `contacto` cada una con su propio archivo HTML y CSS.
 - Carpeta `css/` que contiene estilos específicos para cada sección, así como un archivo `portada.css` para estilos comunes.
 
+## Tecnologías Utilizadas
+
+- **HTML5**: Para la estructura de las páginas.
+- **CSS3**: Para el diseño y la presentación visual, incluyendo un archivo CSS para cada sección.
+
 ## Estructura de Archivos
 
 ```plaintext
@@ -30,11 +35,6 @@ metodologias-1ro/
 │   ├── especializaciones/
 │   └── portada/        
 └── README.md              # Información del proyecto
-
-## Tecnologías Utilizadas
-
-- **HTML5**: Para la estructura de las páginas.
-- **CSS3**: Para el diseño y la presentación visual, incluyendo un archivo CSS para cada sección.
 
 ## Notas
 
