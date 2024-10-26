@@ -16,7 +16,6 @@ Este repositorio incluye:
 
 ## Estructura de Archivos
 
-```plaintext
 metodologias-1ro/
 ├── index.html 
 ├── home.html    
