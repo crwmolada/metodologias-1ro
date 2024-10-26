@@ -18,9 +18,10 @@ Este repositorio incluye:
 ```
 metodologias-1ro/
 ├── index.html 
-├── home.html    
-├── about.html  
-├── contact.html           
+├── contactos.html    
+├── aula-virtual.html
+├── cursos.html  
+├── especializaciones.html           
 ├── css/
 │   ├── aula-virtual.css           
 │   ├── beneficios.css          
