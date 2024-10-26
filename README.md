@@ -15,7 +15,7 @@ Este repositorio incluye:
 - **CSS3**: Para el diseño y la presentación visual, incluyendo un archivo CSS para cada sección.
 
 ## Estructura de Archivos
-
+```
 metodologias-1ro/
 ├── index.html 
 ├── home.html    
@@ -34,7 +34,7 @@ metodologias-1ro/
 │   ├── especializaciones/
 │   └── portada/        
 └── README.md              # Información del proyecto
-
+```
 ## Notas
 
 Este proyecto es únicamente para fines estéticos y de práctica, sin funcionalidad adicional.
